@@ -15,7 +15,4 @@ __pycache__/
 # 本地构建产生的微软组件和安装包，不自动提交到源码仓库
 Compatibility2007/Installer/obj/
 Compatibility2007/
-dist/*
-
-# 安装包
-!dist/MSPY2007-Setup-0.1.0-preview.2-x64.zip
+dist/
