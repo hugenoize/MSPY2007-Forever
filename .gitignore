@@ -1,0 +1,21 @@
+.vscode/
+*.code-workspace
+docs/
+
+# Microsoft Office 2007 安装介质：体积过大，不纳入仓库
+微软拼音输入法2007版 安装包/
+
+# Python
+__pycache__/
+*.pyc
+
+# 编译/临时输出
+*.log
+*.bak
+# 本地构建产生的微软组件和安装包，不自动提交到源码仓库
+Compatibility2007/Installer/obj/
+Compatibility2007/
+dist/*
+
+# 安装包
+!dist/MSPY2007-Setup-0.1.0-preview.2-x64.exe
