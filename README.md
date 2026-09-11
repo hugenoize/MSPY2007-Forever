@@ -12,7 +12,9 @@
 
 为此，我制作了安装包，您可以在 Windows 11 系统中直接安装使用 微软拼音输入法 2007 版，并且它与系统自带的 微软拼音输入法 是各自独立的，互不影响。
 
-直接下载安装包，双击执行安装即可。
+直接下载安装包：
+https://github.com/hugenoize/MSPY2007-Forever/blob/main/dist/MSPY2007-Setup-0.1.0-preview.2-x64.exe
+双击执行安装即可。
 
 另外，如果您只需要“微软拼音新体验输入”模式，而不需要“微软拼音经典输入”模式，可以去下载安装 MSPYForever
 ： https://github.com/Streamlet/MSPYForever
